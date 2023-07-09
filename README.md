@@ -17,8 +17,4 @@
 
  ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=jvalkovv&border=00A8A3&theme=white&dates=000000&ring=FFAE08&currStreakLabel=000000&fire=DD2727&sideLabels=000000&sideNums=000000&stroke=00A8A3)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalkovv)](https://github.com/anuraghazra/github-readme-stats)
 
